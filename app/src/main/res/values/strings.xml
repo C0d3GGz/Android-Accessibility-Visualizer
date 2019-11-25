@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AccessibilityVisualizer</string>
+    <string name="greetings">Hello World! For this app to work you need to grant special
+        permissions in the settings. On Android Q on Pixel 3:\n
+        Settings -> Apps and Nots -> Advanced -> Special App Access -> Display over other apps ->
+        choose this app. Then activate accessibility service under settings.
+    </string>
+</resources>
