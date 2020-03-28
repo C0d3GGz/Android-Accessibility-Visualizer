@@ -17,7 +17,7 @@ class DrawView(context: Context) : View(context) {
         initPaint()
     }
 
-    private fun initPaint(){
+    private fun initPaint() {
         paint.color = Color.CYAN
         paint.strokeWidth = 3f
         paint.style = Paint.Style.STROKE
